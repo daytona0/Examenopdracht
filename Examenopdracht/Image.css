@@ -1,0 +1,37 @@
+#Image {
+    position: relative;
+    text-align: center;
+    color: black;
+    background-color: black;
+}
+
+.bottom-left span {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 5px;
+    font-size: 25px;
+    margin-left: 0;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+}
+
+.centered span {
+   background-color: black;
+   color: white;
+  font-size: 40px;
+  padding: 8px;
+}

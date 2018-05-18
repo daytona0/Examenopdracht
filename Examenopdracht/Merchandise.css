@@ -1,0 +1,33 @@
+
+
+
+#Merchandise {
+  
+  background-color: #8e696e;
+  color: #fff;
+}
+#Merchandise>h1 {
+  font-size: 64px;
+  text-align:center;
+}
+
+#Merchandise>p {
+  font-size: 25px;
+  padding: 0;
+  margin-top: 0;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#Merchandise>img {
+  width:80%;
+  text-align: center;
+  margin-left: 100px;
+  
+}
+
+#Merchandise>span>p {
+  font-size: 25px;
+  padding: 10px;
+  
+}
